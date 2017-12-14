@@ -24,6 +24,7 @@ Create a feature branch called `home-page`. Inside of `Home.js` build out a simp
 **Student 2**
 
 Create a feature branch called `about-page`. Inside of `About.js`, build out a simple component called `<About>` that renders an `<h1>` with "About" in it.
+
 **Both Students**
 Add and commit your changes. Then push them up to the remote version of your feature branch (`git push origin <branch_name>`). On GitHub, make a pull request from your branch for your changes to be merged in.
 
